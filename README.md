@@ -1,76 +1,32 @@
-<br clear="both">
+<h1 align="center">Hi 👋, I'm Suraj Yengalwar</h1>
+<h3 align="center">👋 Hey there! I'm Suraj Yengalwar, a passionate Front-end Web Developer on an exciting journey to master the art of Full Stack Web Development at Masai School. I'm here to bring your digital dreams to life!</h3>
 
-<h1 align="center">Suraj Yengalwar | Front-end Web Developer</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajdy&label=Profile%20views&color=0e75b6&style=flat" alt="surajdy" /> </p>
 
-###
-<p align="left">👋 Hey there! I'm Suraj Yengalwar, a passionate Front-end Web Developer on an exciting journey to master the art of Full Stack Web Development at Masai School. Armed with a Bachelor's degree in Computer Science from SR Institute of Management and Technology, BKT Lucknow (expected completion in 2023), I'm here to bring your digital dreams to life!</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajdy" alt="surajdy" /></a> </p>
 
-###
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **React,Nodejs,Javascript,Java .**
 
+- 📫 How to reach me **Suraj.yengalwar111@gmail.com**
 
-<h3 align="left">🏆 Certificates</h3>
+- 📄 Know about my experiences [resume need to uploaded](resume need to uploaded)
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@suraj101020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@suraj101020" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suraj yengalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj yengalwar" height="30" width="40" /></a>
+<a href="https://codesandbox.com/surajdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="surajdy" height="30" width="40" /></a>
+<a href="https://instagram.com/suraj yengalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj yengalwar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@suraj_yengalwar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suraj_yengalwar2" height="30" width="40" /></a>
+</p>
 
-<p align="left">-Masai -Full Stack Web Developer</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajdy&show_icons=true&locale=en&layout=compact" alt="surajdy" /></p>
 
-<h2 align="left">📫 Let's connect</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajdy&show_icons=true&locale=en" alt="surajdy" /></p>
 
-###
-
-<p align="left">Portfolio:</p>
-<p align="left">LinkedIn: https://linkedin.com/in/Suraj Username</p>
-<p align="left">Email: Suraj.yengalwar111@gmail.com</p>
-<p align="left">Instagram: https://instagram.com/@surajyengalwar</p>
-
-
-###
-
-<h2 align="left">🛠️ Tech Stack and Tools</h2>
-
-###
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-  <img width="12" />
-  </div>
-
-###
-
-<br clear="both">
-
-###
-<h2>📈GitHub Stats:</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=surajdy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=surajdy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajdy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-###
-<h2>🏆 GitHub Trophies</h2> 
-![](https://github-profile-trophy.vercel.app/?username=surajdy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=surajdy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajdy&" alt="surajdy" /></p>
