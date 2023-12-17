@@ -12,11 +12,11 @@
 
 - 📫 How to reach me **Suraj.yengalwar111@gmail.com**
 
-- 📄 Know about my experiences [resume need to uploaded](resume need to uploaded)
+- 📄 Know about my experiences**https://surajdy.github.io**
 ###
 <h3 align="left">📫 Connect with me:</h3>
 ###
-    <p align="left">Portfolio: to be updated</p>
+    <p align="left">Portfolio:https://surajdy.github.io</p>
     <p align="left">LinkedIn: https://linkedin.com/in/suraj yengalwar</p>
     <p align="left">Email: suraj.yengalwar111@gmail.com</p>   
     <p align="left">codesandbox: https://codesandbox.com/surajdy</p>   
