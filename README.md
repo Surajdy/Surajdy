@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Suraj.yengalwar111@gmail.com**
 
-- 📄 Know about my experiences**https://surajdy.github.io**
+- 👨‍💻 All of my projects are available at [https://Surajdy.github.io/](https://Surajdy.github.io/) 
 ###
 <h3 align="left">📫 Connect with me:</h3>
 ###
