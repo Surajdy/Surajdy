@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajdy&label=Profile%20views&color=0e75b6&style=flat" alt="surajdy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajdy" alt="surajdy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://
+                                                                               .6/?username=surajdy" alt="surajdy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -16,14 +17,17 @@
 ###
 <h3 align="left">📫 Connect with me:</h3>
 ###
-    <p align="left">Portfolio:https://surajdy.github.io</p>
-    <p align="left">LinkedIn:[linkedin.com](https://www.linkedin.com/in/suraj-yengalwar-4a1739154/)</p>
-    <p align="left">Email: suraj.yengalwar111@gmail.com</p>   
-    <p align="left">codesandbox:[codesandbox.com] (https://codesandbox.com/surajdy)</p>   
-    <p align-"left">hackerrank:[hackerrank.com] (https://www.hackerrank.com/@suraj_yengalwar2)</p>
 
-###
+- Portfolio: [https://surajdy.github.io](https://surajdy.github.io)
+- LinkedIn: [suraj-yengalwar](https://www.linkedin.com/in/suraj-yengalwar-4a1739154/)
+- Email: [suraj.yengalwar111@gmail.com](mailto:suraj.yengalwar111@gmail.com)
+- CodeSandbox: [surajdy](https://codesandbox.com/surajdy)
+- HackerRank: [suraj_yengalwar2](https://www.hackerrank.com/@suraj_yengalwar2)
+
+
+### 
 <h2 align="left">🛠️ Tech Stack and Tools</h2>
+.6
 <div>
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
     <img width="12" />
