@@ -17,7 +17,7 @@
 <h3 align="left">📫 Connect with me:</h3>
 ###
     <p align="left">Portfolio:https://surajdy.github.io</p>
-    <p align="left">LinkedIn: https://linkedin.com/in/suraj yengalwar</p>
+    <p align="left">LinkedIn:https://www.linkedin.com/in/suraj-yengalwar-4a1739154/</p>
     <p align="left">Email: suraj.yengalwar111@gmail.com</p>   
     <p align="left">codesandbox: https://codesandbox.com/surajdy</p>   
     <p align-"left">hackerrank: https://www.hackerrank.com/@suraj_yengalwar2</p>
